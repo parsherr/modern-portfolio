@@ -5,7 +5,6 @@ import Stack from '@/components/Stack';
 import PorfileDetails from '@/components/PorfileDetails';
 import About from '@/components/About';
 import Works from '@/components/Works';
-import Sponsors from '@/components/Sponsors';
 import Repositories from '@/components/Repositories';
 import { DiscordUserData, GithubRepositoriesData } from '@/types';
 import SWR from '@/utils/swr';
