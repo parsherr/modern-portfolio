@@ -1,7 +1,10 @@
 # Personal Portfolio
 
 
-## View Demo :
+#### View Demo : https://modern-portfolio-taupe.vercel.app/
+#### My own version (its modified of this) : https://parsher.xyz
+
+-----
 
 Bu proje, Next.js, React, TypeScript ve Tailwind CSS kullanılarak geliştirilen kişisel portföy sitesidir. Kendi projelerimi, becerilerimi ve hakkımda bilgileri içeren modern ve şık bir web sitesi sunar.
 
