@@ -1,6 +1,7 @@
 # Personal Portfolio
 
-![SetScript Banner](https://socialify.git.ci/parsherr/parsher.xyz/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Dark)
+
+## View Demo :
 
 Bu proje, Next.js, React, TypeScript ve Tailwind CSS kullanılarak geliştirilen kişisel portföy sitesidir. Kendi projelerimi, becerilerimi ve hakkımda bilgileri içeren modern ve şık bir web sitesi sunar.
 
@@ -9,10 +10,12 @@ Bu proje, Next.js, React, TypeScript ve Tailwind CSS kullanılarak geliştirilen
 - ⚡ **Next.js** ile hızlı ve optimize edilmiş sayfalar
 - 🎨 **Tailwind CSS** ile modern ve şık tasarım
 - 🔥 **TypeScript** ile güçlü ve güvenli kodlama deneyimi
+- 🚀 **Github** ve **Discord** API'ları ile otomasyon
+- 🚀 Siteye anlık olarak dinlediğiniz şarkı, yazdığınız proje ve oynadığınız oyun düşer
 - 📜 SEO dostu dinamik sayfalar
-- 🌙 Karanlık & Aydınlık mod desteği
 - 📱 Mobil uyumlu, duyarlı tasarım
-- 📂 Proje ve blog bölümleri
+- 📂 Referans işlerim bölümleri
+- 📂 Github repolarım bölümleri
 - 📧 Animasyonlar ile desteklenmiş tasarımlar
 
 ## 📦 Teknoloji Altyapısı
@@ -21,8 +24,6 @@ Bu proje, Next.js, React, TypeScript ve Tailwind CSS kullanılarak geliştirilen
 - **Programlama Dili**: TypeScript
 - **Stil Kütüphanesi**: Tailwind CSS
 - **Animasyonlar**: Framer Motion
-- **Form Yönetimi**: React Hook Form
-- **Veri Çekme**: SWR
 
 ## 🚀 Kurulum
 
@@ -82,6 +83,5 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 ---
 
 <p align="center">
-  Made with ❤️ by Parsher
+  Made with ❤️ by <a href="parsher.xyz">Parsher</a>
 </p>
-
