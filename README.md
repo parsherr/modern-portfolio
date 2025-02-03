@@ -1,8 +1,12 @@
 # Personal Portfolio
 
 
-#### View Demo : https://modern-portfolio-taupe.vercel.app/
-#### My own version (its modified of this) : https://parsher.xyz
+#### 🚀 View Demo : https://modern-portfolio-taupe.vercel.app/
+#### 🔥 My own version (its modified of this) : https://parsher.xyz
+-----
+<br>
+<h3>⭐ 40 starda büyük bi güncelleme getireceğim. Müşteri yorumları gibi şeyler eklenecek :></h3>
+<br>
 
 -----
 
